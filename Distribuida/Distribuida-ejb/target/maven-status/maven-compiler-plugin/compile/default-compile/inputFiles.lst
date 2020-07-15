@@ -1,1 +1,10 @@
-C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\Distribuida\Distribuida-ejb\src\main\java\epn\NewSessionBean.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\sesiones\CargoFacadeLocal.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\sesiones\EstcivilFacadeLocal.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\sesiones\EstcivilFacade.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\sesiones\EmpleadoFacade.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\entidades\Cargo.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\sesiones\AbstractFacade.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\sesiones\CargoFacade.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\entidades\Estcivil.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\entidades\Empleado.java
+C:\Users\hp\Desktop\Semestre_6\Aplicaciones_Distribuidas\Deberes\D4\Programas\Distribuida\AplicacionEmpresarial-J2EE1\Distribuida\Distribuida-ejb\src\main\java\sesiones\EmpleadoFacadeLocal.java

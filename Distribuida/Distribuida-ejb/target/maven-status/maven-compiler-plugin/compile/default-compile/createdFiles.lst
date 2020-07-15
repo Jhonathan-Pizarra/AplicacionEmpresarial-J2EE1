@@ -1,1 +1,13 @@
-epn\NewSessionBean.class
+sesiones\AbstractFacade.class
+sesiones\CargoFacade.class
+sesiones\EmpleadoFacadeLocal.class
+sesiones\CargoFacadeLocal.class
+sesiones\EstcivilFacadeLocal.class
+entidades\Cargo.class
+entidades\Estcivil_.class
+sesiones\EstcivilFacade.class
+entidades\Empleado_.class
+entidades\Estcivil.class
+entidades\Cargo_.class
+sesiones\EmpleadoFacade.class
+entidades\Empleado.class
