@@ -7,5 +7,5 @@ Integrantes:
 Asignatura: Aplicaciones Distribuidas\
 Facultad: ESFOT
 
-2020-A
-*Deber #4 *
+2020-A\
+*(Deber #4)*
