@@ -1,4 +1,4 @@
-# AplicacionEmpresarial-J2EE1
+# AplicacionEmpresarial-JEE
 
 Integrantes: 
 * Jhonathan Pizarra
